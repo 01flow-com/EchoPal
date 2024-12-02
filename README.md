@@ -19,7 +19,6 @@
 #### 起步：
 克隆我们的仓库，查看文档，加入我们的讨论群组，开始在 **EchoPal** 上贡献你的代码和创意！
 
-![b8a746a5e9d2634b5c8bc6bf122e0a1](https://github.com/01flow-com/EchoPal/assets/46317258/21ea148c-626a-42fd-8c78-49d4435d960f)
+### 注意
 
-![23c7c2f2aeb3f18eb79cb86e2222598](https://github.com/01flow-com/EchoPal/assets/46317258/d70a7725-ece0-4d07-bb1a-3f5fb78c13f4)
-
+暂时已停止运营
